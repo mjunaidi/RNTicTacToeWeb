@@ -1,6 +1,6 @@
 # RNTicTacToeWeb
 
-## [LIVE DEMO](https://rntictactoe.netlify.com)
+## [LIVE DEMO](https://tictactoe.mjunaidi.com)
 
 > Imported from [RNTicTacToe](https://github.com/mjunaidi/RNTicTacToe) with web support.
 
